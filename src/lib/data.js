@@ -11,7 +11,7 @@ export const products = [
   },
   {
     id: 2,
-    name: "Brass Temple Diya",
+    name: "Brass Akhand Diya",
     category: "Decor",
     price: "₹499",
     tagline: "Illuminate Your Spirit",
@@ -21,9 +21,9 @@ export const products = [
   },
   {
     id: 3,
-    name: "Himalayan Shilajit",
+    name: "Brass Akhand jyot",
     category: "Wellness",
-    price: "₹1,499",
+    price: "₹1,099",
     tagline: "Mountain Vitality",
     description: "Pure resin sourced from 16,000ft. A potent Ayurvedic rejuvenator that restores energy and strength.",
     image: "\public\Images\diya-wscrew.png",
