@@ -6,7 +6,7 @@ export const products = [
     price: "₹999",
     tagline: "The Alchemy of Water",
     description: "Hand-hammered by artisans in Jaipur. Storing water in copper naturally alkalizes it, balancing the body's pH levels.",
-    image: "https://images.unsplash.com/photo-1615486511484-92e172cc4fe0?q=80&w=1740&auto=format&fit=crop",
+    image: "\public\Images\copper-bottle.png",
     details: ["Pure Copper", "900ml Capacity", "Leak-proof Cap"]
   },
   {
@@ -16,7 +16,7 @@ export const products = [
     price: "₹499",
     tagline: "Illuminate Your Spirit",
     description: "Solid brass diya with intricate engraving. The weight of tradition in the palm of your hand.",
-    image: "https://images.unsplash.com/photo-1605347209778-433c0e356e9c?q=80&w=1740&auto=format&fit=crop",
+    image: "\public\Images\diya-woscrew.png",
     details: ["Solid Brass", "Hand-engraved", "Easy to clean"]
   },
   {
@@ -26,7 +26,7 @@ export const products = [
     price: "₹1,499",
     tagline: "Mountain Vitality",
     description: "Pure resin sourced from 16,000ft. A potent Ayurvedic rejuvenator that restores energy and strength.",
-    image: "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=1964&auto=format&fit=crop",
+    image: "\public\Images\diya-wscrew.png",
     details: ["Lab Tested", "Sun-dried", "15g Jar"]
   },
   {
