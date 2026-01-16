@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grameal-thath/static/css/main.1ad3239d.css",
+    "main.js": "/grameal-thath/static/js/main.0cc948be.js",
+    "static/js/453.07161ea0.chunk.js": "/grameal-thath/static/js/453.07161ea0.chunk.js",
+    "index.html": "/grameal-thath/index.html",
+    "main.1ad3239d.css.map": "/grameal-thath/static/css/main.1ad3239d.css.map",
+    "main.0cc948be.js.map": "/grameal-thath/static/js/main.0cc948be.js.map",
+    "453.07161ea0.chunk.js.map": "/grameal-thath/static/js/453.07161ea0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad3239d.css",
+    "static/js/main.0cc948be.js"
+  ]
+}
