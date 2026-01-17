@@ -19,13 +19,13 @@ const Home = () => {
           className="text-center max-w-4xl mx-auto z-10"
         >
           <motion.p variants={fadeInUp} className="text-clay text-xs font-bold uppercase tracking-[0.4em] mb-6">
-            Est. 2024 • India
+            Est. 2025 • India
           </motion.p>
           <motion.h1 variants={fadeInUp} className="text-6xl md:text-9xl font-serif leading-none mb-8 text-stone">
-            Slow <span className="italic font-light text-clay">Living</span> <br/> Essentials
+            Culture in <span className="italic font-light text-clay">Every</span> <br/> Detail
           </motion.h1>
           <motion.p variants={fadeInUp} className="text-lg md:text-xl text-stone/70 mb-12 font-light max-w-lg mx-auto">
-            Rediscovering ancient Indian craftsmanship for the modern mindful home.
+            Rediscovering Indian craftsmanship for the modern home.
           </motion.p>
           <motion.div variants={fadeInUp}>
             <Link to="/shop" className="inline-flex items-center gap-3 bg-stone text-sand px-10 py-4 uppercase tracking-widest text-xs hover:bg-clay transition-colors duration-300">
