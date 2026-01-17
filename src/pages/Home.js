@@ -19,7 +19,7 @@ const Home = () => {
           className="text-center max-w-4xl mx-auto z-10"
         >
           <motion.p variants={fadeInUp} className="text-clay text-xs font-bold uppercase tracking-[0.4em] mb-6">
-            Est. 2025 • India
+            Est. 2024 • India
           </motion.p>
           <motion.h1 variants={fadeInUp} className="text-6xl md:text-9xl font-serif leading-none mb-8 text-stone">
             Culture in <span className="italic font-light text-clay">Every</span> <br/> Detail
@@ -72,7 +72,7 @@ const Home = () => {
         <div className="container mx-auto px-6 relative z-10 flex flex-col items-center text-center">
           <Sparkles className="mb-8 text-clay" size={32} strokeWidth={1} />
           <h2 className="text-3xl md:text-5xl font-serif italic leading-snug max-w-2xl mb-12">
-            "We do not sell products. We curate the experience of slowing down."
+            "We curate the Indian cultural experience."
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12 w-full max-w-4xl border-t border-white/10 pt-12">
             <div>
