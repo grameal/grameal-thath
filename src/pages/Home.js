@@ -41,10 +41,7 @@ const Home = () => {
       {/* --- FEATURED SHOWCASE --- */}
       <section className="py-24 md:py-32">
         <div className="container mx-auto px-6">
-          <div className="flex justify-between items-end mb-16 border-b border-stone/10 pb-6">
-            <h2 className="text-4xl md:text-5xl font-serif">Curated</h2>
-            <Link to="/shop" className="text-xs uppercase tracking-widest hover:text-clay">View All</Link>
-          </div>
+          
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {products.map((product) => (
