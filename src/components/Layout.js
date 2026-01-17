@@ -80,7 +80,7 @@ const Footer = () => (
       <div className="flex flex-col gap-8">
         {/* Social Icons */}
         <div className="flex gap-6">
-          <a href="https://instagram.com" target="_blank" rel="noreferrer" className="hover:text-clay transition-colors duration-300">
+          <a href="https://www.instagram.com/grameal.thath/" target="_blank" rel="noreferrer" className="hover:text-clay transition-colors duration-300">
             <Instagram size={28} strokeWidth={1.5} />
           </a>
           
