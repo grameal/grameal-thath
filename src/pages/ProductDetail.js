@@ -23,7 +23,7 @@ const ProductDetail = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-24 items-start">
           
           {/* Image */}
-          <div className="aspect-[4/5] bg-[#e5e2dd] w-full sticky top-32">
+          <div className="aspect-[4/5] bg-[#e5e2dd] w-full lg:sticky lg:top-32">
             <img src={product.image} alt={product.name} className="w-full h-full object-cover"/>
           </div>
 
